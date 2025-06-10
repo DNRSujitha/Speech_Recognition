@@ -41,4 +41,4 @@ Meeting & Media Transcription: Automatically generating transcripts of conversat
 Automotive: Integrating voice commands for navigation, entertainment, and communication in vehicles, boosting safety by minimizing manual interaction.
 
 #Output:
-
+ ![Image](https://github.com/user-attachments/assets/a01bf71a-d161-4444-b0d1-bfe7d457085f)
